@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/e-com/static/css/main.cc4cf723.css",
+    "main.js": "/e-com/static/js/main.b10c0699.js",
+    "index.html": "/e-com/index.html",
+    "main.cc4cf723.css.map": "/e-com/static/css/main.cc4cf723.css.map",
+    "main.b10c0699.js.map": "/e-com/static/js/main.b10c0699.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc4cf723.css",
+    "static/js/main.b10c0699.js"
+  ]
+}
